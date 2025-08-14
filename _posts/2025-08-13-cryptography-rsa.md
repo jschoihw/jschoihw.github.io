@@ -2,7 +2,7 @@
 title: "CryptoHack Diffie-Hellman Starter Challenges Writeup"
 date: 2025-08-13 00:00:00 +0800
 categories: [Cryptography, CryptoHack]
-tags: [Diffie-Hellman, CTF, Crypto, Writeup]
+tags: [diffiehellman, ctf, crypto, writeup]
 ---
 
 ## 📜 Introduction
