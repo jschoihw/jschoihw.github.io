@@ -25,4 +25,4 @@ This lab uses a serialization-based session mechanism and is vulnerable to authe
 
 You can log in to your own account using the following credentials: wiener:peter
 
-TBD
+## This post will be published soon

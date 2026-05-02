@@ -14,9 +14,9 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: James' Cyber Security Blog # the main title
+title: James' Cyber Security # the main title
 
-tagline: Welcome to my Blog # it will display as the subtitle
+tagline: Welcome to my Tech Blog in Cyber Security # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Cybersecurity notes and write-ups from an IT security student at Ruhr-University Bochum.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: #"https://media.licdn.com/dms/image/v2/D4D03AQE9NEMe1jRlpw/profile-displayphoto-shrink_800_800/B4DZdlZLGPG8Ak-/0/1749752802673?e=1772668800&v=beta&t=mxMzlzwZA9AEKSFNapwQ5Bmdcnn9iIdPy3eOwHdWqCA"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
